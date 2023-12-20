@@ -1,5 +1,5 @@
 # Youtube Clone
-The FIRST project
+The FIRST project,
 Attempt to put its creators html and css language to the test
 
 Site is a basic replica of the front page of the youtube website
